@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cijokb/nodeWeatherApp/issues"
   },
-  "homepage": "https://github.com/cijokb/nodeWeatherApp#readme"
+  "homepage": "https://github.com/cijokb/nodeWeatherApp#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
